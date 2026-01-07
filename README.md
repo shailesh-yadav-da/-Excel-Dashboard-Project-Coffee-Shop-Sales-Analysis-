@@ -1,0 +1,29 @@
+☕ Excel Dashboard Project | Coffee Shop Sales Analysis 📊
+
+I’m excited to share my latest Excel Dashboard project where I analyzed
+Coffee Shop Sales data to uncover meaningful business insights.
+
+🔍 Project Objective:
+To analyze sales performance and understand customer purchasing patterns
+to support data-driven decision making.
+
+🛠 Tools Used:
+• Microsoft Excel
+• Pivot Tables
+• Advanced Excel Functions
+• Charts & Interactive Dashboard
+
+📊 Key Insights:
+• Total sales and revenue trends
+• Best-selling coffee products
+• Peak sales hours & days
+• Category-wise performance analysis
+
+📁 GitHub Project Link:
+https://github.com/shailesh-yadav-da/excel-coffee-shop-sales-dashboard
+
+I would appreciate your feedback and suggestions.
+Open to opportunities in Data Analyst / Business Intelligence roles.
+
+#ExcelDashboard #DataAnalytics #DataAnalyst
+#ExcelProjects #BusinessAnalytics #Dashboard
