@@ -1,4 +1,4 @@
-#excel-coffee-shop-sales-dashboard
+# Excel Coffee Shop Sales Dashboard
 
 I’m excited to share my latest Excel Dashboard project where I analyzed
 Coffee Shop Sales data to uncover meaningful business insights.
